@@ -1,83 +1,68 @@
 # CAPITOL CONTRACTS LLC
-**  | Prime Contractor**
-**Facilities Operations • Emergency Response • Property Services**
 
-**Headquarters:** Clarksville, Arkansas
-**Coverage:** Arkansas | Oklahoma | Missouri | Texas + Nationwide Emergency Mobilization
+**Educational Support Resources | Peer-Written Frameworks | Institutional Program Tools**
+
+Capitol Contracts LLC develops plain-language educational resources and structured peer-written frameworks for institutional, court-adjacent, reentry, advocacy, and community program settings.
+
+---
+
+## OWNERSHIP / MANAGEMENT AUTHORITY
+
+**William Dane Lingar** — CEO / President / Majority Owner
+
+William Dane Lingar holds final management authority for company strategy, contract decisions, pricing, banking, bidding, financial commitments, hiring, firing, compensation, and official business direction.
+
+Daniel Bret Lingar may support content development, technical execution, resource drafting, and operational implementation under the authority of the CEO / President. Daniel Bret Lingar should not be listed as owner, CEO, founder, president, or final decision authority in public-facing capability materials.
 
 ---
 
 ## POINT OF CONTACT
-**Daniel Lingar** — Founder / Prime Contractor
-Phone: (479) 440-0934
+
+**William Dane Lingar** — CEO / President / Majority Owner
+
 Email: capitolcontracts@outlook.com
 
-**UEI:** HH77KNSAV5X7
-**CAGE:** [Add when issued]
+**Headquarters:** Clarksville, Arkansas  
+**UEI:** HH77KNSAV5X7  
+**CAGE:** [Add when issued]  
 **SAM.gov:** [Add link]
-**Website:** [Add link]
 
 ---
 
-## CORE COMPETENCIES
+## CURRENT POSITIONING
 
-### Facilities Operations & Maintenance (O&M)
-- Base and facility operations support
-- Preventive & corrective maintenance coordination
-- HVAC, electrical, and general trades management (coordinated)
-- Vendor oversight, work-order dispatch, and compliance tracking
-- 24/7 emergency response capability
+Capitol Contracts LLC is currently focused on educational support resources, peer-written frameworks, and court/program communication tools.
 
-### Emergency & Disaster Operations
-- FEMA-aligned debris removal & storm recovery support
-- Damage assessment, site stabilization, remediation coordination
-- Temporary facility setup
-- Rapid mobilization (24–48 hours where feasible)
-
-### Property & Turnover Services
-- Custodial operations / janitorial services
-- Grounds maintenance
-- Real estate turnovers & post-construction cleaning
-- Light renovation / punch-list execution (subcontractor-supported)
+The company’s public-facing materials should not use the old facilities maintenance, emergency response, property services, construction, janitorial, landscaping, or service-trade positioning unless those lines are formally restored in SAM.gov and the active capability statement.
 
 ---
 
-## DIFFERENTIATORS
+## NAICS ALIGNMENT
 
-**Veteran-Led Execution**
-Mission-first discipline, accountability, and timeline focus.
+**611710 — Educational Support Services**
 
-**Assembled Prime Contractor Model**
-Prime contractor with a pre-vetted, insured subcontractor network to scale quickly without bloated overhead.
-
-**Compliance-First Operations**
-FAR/DFARS-aware execution, drug-free workplace, safety-trained teams, and insurance-forward operations.
-
-**Speed as a Capability**
-Built for time-sensitive requirements where delays create operational risk.
+Use only the current approved NAICS codes in public-facing capability materials. Remove outdated facilities/property-service NAICS language from outreach, websites, and review packets.
 
 ---
 
-## NAICS CODES
-**561210** – Facilities Support Services (Primary)
-561720 – Janitorial Services
-561730 – Landscaping Services
-236220 – Commercial & Institutional Building Construction (if applicable)
-238220 – HVAC (managed / coordinated)
-238210 – Electrical (managed / coordinated)
+## ACTIVE RESOURCE PACKAGE
+
+### The Rescue Boat: Survival Doctrine
+
+A peer-written educational framework translating trauma, addiction, shame, and freeze response into practical concepts for institutional and court-program use.
+
+**Institutional thesis:** The staff task is not to affirm the behavior. The task is to identify the function, name the damage, and redirect toward safer tools.
+
+Resource links:
+
+- Rescue Boat Landing Page: `rescue-boat/index.html`
+- Freeze Response Communication Sheet: `rescue-boat/freeze-response-communication-sheet.html`
+- Court / Program Handout: `rescue-boat/court-program-handout.html`
+- Institutional Toolkit: `rescue-boat/toolkit.html`
+- Outreach Message: `rescue-boat/outreach-email.html`
 
 ---
 
-## PAST PERFORMANCE
-**New Prime Entity**
-Capitol Contracts LLC leverages leadership operational experience and an established subcontractor network to deliver compliant, on-time execution.
+## CLAIM LIMITS
 
----
-
-## TARGET CUSTOMERS
-- Department of Veterans Affairs (VA Medical Centers & Clinics)
-- Department of Defense (installation & readiness support)
-- FEMA & State Emergency Management Agencies
-- General Services Administration (GSA)
-- National Guard armories and training facilities
-- Commercial property management firms
+Educational peer resource. Not therapy. Not legal advice. Not medical treatment. No trauma disclosure required.

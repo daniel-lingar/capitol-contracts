@@ -1,24 +1,44 @@
 CAPITOL CONTRACTS LLC
-  | Prime Contractor
-Facilities Operations • Emergency Response • Property Services
+Educational Support Resources | Peer-Written Frameworks | Institutional Program Tools
 
-Headquarters: Clarksville, Arkansas
-Coverage: AR | OK | MO | TX + Nationwide Emergency Mobilization
+Capitol Contracts LLC develops plain-language educational resources and structured peer-written frameworks for institutional, court-adjacent, reentry, advocacy, and community program settings.
 
-POC: Daniel Lingar, Founder / Prime Contractor
-Phone: (479) 440-0934
+OWNERSHIP / MANAGEMENT AUTHORITY
+William Dane Lingar — CEO / President / Majority Owner
+
+William Dane Lingar holds final management authority for company strategy, contract decisions, pricing, banking, bidding, financial commitments, hiring, firing, compensation, and official business direction.
+
+Daniel Bret Lingar may support content development, technical execution, resource drafting, and operational implementation under the authority of the CEO / President. Daniel Bret Lingar should not be listed as owner, CEO, founder, president, or final decision authority in public-facing capability materials.
+
+POINT OF CONTACT
+William Dane Lingar — CEO / President / Majority Owner
 Email: capitolcontracts@outlook.com
+Headquarters: Clarksville, Arkansas
 UEI: HH77KNSAV5X7
 CAGE: [Add when issued]
 SAM.gov: [Add link]
-Website: [Add link]
 
-Core Competencies
-- Facilities O&M: base ops support; PM/CM coordination; vendor oversight; 24/7 response
-- Emergency/Disaster: FEMA-aligned recovery; debris removal; remediation coordination; rapid mobilization
-- Property Services: custodial; grounds; turnovers; post-construction cleaning; light renovation (sub-supported)
+CURRENT POSITIONING
+Capitol Contracts LLC is currently focused on educational support resources, peer-written frameworks, and court/program communication tools.
 
-NAICS 561210 (Primary), 561720, 561730, 236220 (if applicable), 238220, 238210
+NAICS ALIGNMENT
+611710 — Educational Support Services
 
-Differentiators
-Veteran-led execution | Assembled prime model | Compliance-first operations | Speed as a capability
+Do not use outdated facilities maintenance, emergency response, property services, construction, janitorial, landscaping, or service-trade positioning unless those lines are formally restored in SAM.gov and the active capability statement.
+
+ACTIVE RESOURCE PACKAGE
+The Rescue Boat: Survival Doctrine
+
+A peer-written educational framework translating trauma, addiction, shame, and freeze response into practical concepts for institutional and court-program use.
+
+Institutional thesis: The staff task is not to affirm the behavior. The task is to identify the function, name the damage, and redirect toward safer tools.
+
+Resource links:
+- rescue-boat/index.html
+- rescue-boat/freeze-response-communication-sheet.html
+- rescue-boat/court-program-handout.html
+- rescue-boat/toolkit.html
+- rescue-boat/outreach-email.html
+
+CLAIM LIMITS
+Educational peer resource. Not therapy. Not legal advice. Not medical treatment. No trauma disclosure required.

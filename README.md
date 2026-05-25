@@ -4,6 +4,21 @@ Official public documentation hub for Capitol Contracts LLC.
 
 Capitol Contracts LLC develops structured, non-clinical psychoeducational education materials, implementation tools, and training frameworks for public education, peer-support settings, recovery environments, veteran-support programs, reentry settings, and institutional partners.
 
+## Ownership, Control, and Certification Boundary
+
+Capitol Contracts LLC should be described consistently and accurately.
+
+- **William Dane Lingar** is the veteran majority owner and executive control authority.
+- **Daniel Bret Lingar** is not a veteran and should not be described as veteran-owned, service-disabled veteran-owned, SDVOSB owner, SDVOSB principal, CEO, President, or final-control authority.
+- **Daniel Bret Lingar's role should be limited to non-veteran operational, technical, curriculum, production, or implementation support language.**
+- Capitol Contracts LLC has **not yet applied for SDVOSB certification** and should not be described as SDVOSB-certified, verified SDVOSB, approved SDVOSB, or certified veteran-owned.
+- Any future certification language must be verified before publication or reuse.
+
+Preferred role framing:
+
+- William Dane Lingar: **Majority Owner / CEO / President / Final Decision Authority**
+- Daniel Bret Lingar: **Director of Operations / Technical Lead / Curriculum Development Support**
+
 ## Current Public Structure
 
 This repo is the business-facing hub.

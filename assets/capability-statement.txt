@@ -14,8 +14,8 @@ POINT OF CONTACT
 William Dane Lingar — CEO / President / Majority Owner
 Email: capitolcontracts@outlook.com
 Headquarters: Clarksville, Arkansas
-UEI: HH77KNSAV5X7
-CAGE: [Add when issued]
+UEI: HH77KN5AV5X7
+CAGE: 9ZFJ6
 SAM.gov: [Add link]
 
 CURRENT POSITIONING
@@ -35,6 +35,7 @@ Institutional thesis: The staff task is not to affirm the behavior. The task is 
 
 Resource links:
 - rescue-boat/index.html
+- rescue-boat/participant-edition.html
 - rescue-boat/freeze-response-communication-sheet.html
 - rescue-boat/court-program-handout.html
 - rescue-boat/toolkit.html

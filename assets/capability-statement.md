@@ -23,8 +23,8 @@ Daniel Bret Lingar may support content development, technical execution, resourc
 Email: capitolcontracts@outlook.com
 
 **Headquarters:** Clarksville, Arkansas  
-**UEI:** HH77KNSAV5X7  
-**CAGE:** [Add when issued]  
+**UEI:** HH77KN5AV5X7  
+**CAGE:** 9ZFJ6  
 **SAM.gov:** [Add link]
 
 ---
@@ -56,6 +56,7 @@ A peer-written educational framework translating trauma, addiction, shame, and f
 Resource links:
 
 - Rescue Boat Landing Page: `rescue-boat/index.html`
+- Participant / Peer Reader Edition: `rescue-boat/participant-edition.html`
 - Freeze Response Communication Sheet: `rescue-boat/freeze-response-communication-sheet.html`
 - Court / Program Handout: `rescue-boat/court-program-handout.html`
 - Institutional Toolkit: `rescue-boat/toolkit.html`

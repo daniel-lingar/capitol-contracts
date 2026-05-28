@@ -6,6 +6,8 @@ Capitol Contracts LLC develops structured, non-clinical psychoeducational materi
 
 The company's flagship education system is **What Really Happened (WRH)** — a structured curriculum that teaches trauma responses, addiction patterns, freeze responses, shame cycles, nervous-system adaptation, and survival behavior as understandable mechanisms rather than character failures.
 
+**Contact:** [capitolcontracts@outlook.com](mailto:capitolcontracts@outlook.com)
+
 ## First-Time Visitor Summary
 
 Capitol Contracts LLC is not presenting WRH as therapy, medical care, diagnosis, crisis care, or legal advice. WRH is a non-clinical education system designed to help organizations teach pattern recognition, reduce shame-based misreadings, and support safer peer/facilitator-led conversations.
@@ -74,6 +76,10 @@ This repository should hold:
 - public business documentation
 
 It should not hold raw curriculum content, personal narrative drafts, investigation files, or unrelated experiments.
+
+## Next Step / Contact
+
+For inquiries, pilot conversations, capability materials, or implementation discussions: **[capitolcontracts@outlook.com](mailto:capitolcontracts@outlook.com)**
 
 ## Suggested Public Repo Description
 

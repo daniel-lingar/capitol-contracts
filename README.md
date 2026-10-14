@@ -28,6 +28,14 @@ This explains his motivation. It does not establish that C-PTSD caused those dea
 
 **Source:** [U.S. Department of Veterans Affairs, February 5, 2026](https://news.va.gov/press-room/va-releases-annual-veteran-suicide-prevention-report-updated-with-2023-data/).
 
+## The Research Connection and the Current Figure
+
+Research supports a connection between C-PTSD and suicidal thoughts and attempts in veterans. A 2023 study of 638 UK Armed Forces veterans in Northern Ireland found that probable C-PTSD was significantly associated with lifetime suicidal thoughts and attempts. It did not establish causation or explain the U.S. national death count.
+
+**17.5 is the historical daily average for 2023 that drew Daniel to this mission.** The newer September 2026 VA report records **6,488 Veteran suicide deaths in 2024—an average of 17.7 per day**. Neither figure is a count of deaths attributed to C-PTSD.
+
+[Read the full mission explanation, research evidence, limitations, and VA sources](docs/MISSION_AND_CPTSD_RESEARCH.md).
+
 ## First-Time Visitor Summary
 
 Capitol Contracts LLC is not presenting WRH as therapy, medical care, diagnosis, crisis care, or legal advice. WRH is a non-clinical education system designed to help organizations teach pattern recognition, reduce shame-based misreadings, and support safer peer/facilitator-led conversations.

@@ -48,6 +48,20 @@ The VA explains that ICD-11 recognizes C-PTSD as a separate diagnosis, while DSM
 
 Suicidal thoughts, suicide attempts, and suicide deaths are different outcomes. Evidence about one cannot automatically be treated as evidence about the others.
 
+## Who This Work Is For
+
+The 17.5-to-zero statement expresses the Veteran suicide-prevention aspiration that drew Daniel toward this work. The intended audience is broader:
+
+- **People living with C-PTSD**, whether or not they are Veterans.
+- **People who use or have used substances to cope with distress**, including those who describe their use as self-medication, and people in addiction recovery.
+- **Veterans living with trauma-related difficulties**, including those experiencing substance-use problems.
+- **Rehabilitation facilities and recovery programs** seeking to understand trauma, coping patterns, shame, avoidance, and barriers to participation.
+- **Families and loved ones of all these groups**, who need understandable language for what their loved one may be experiencing and how it affects relationships.
+
+A central aim is to help people understand patterns that can be misunderstood, while retaining accountability for harmful behavior. Families and loved ones are an intended audience in their own right.
+
+Self-medication describes a possible reason for substance use; it is not assumed to explain every person's addiction or establish a diagnosis. This audience statement describes the purpose of the work, not authorization to deliver WRH or evidence that it treats C-PTSD, addiction, or suicide risk.
+
 ## How this relates to my work
 
 My experience explains why I care. Research supports taking C-PTSD and trauma-related distress seriously when considering suicide risk among Veterans. The national statistic shows the scale of loss; it does not establish a single cause.

@@ -56,20 +56,12 @@ Capitol Contracts LLC is not presenting WRH as therapy, medical care, diagnosis,
 
 **Primary audiences:** people living with C-PTSD; people who use substances to cope and people in recovery; Veterans; families and loved ones of all these groups; rehabilitation facilities and recovery organizations; veteran-support programs; reentry settings; peer-support networks; public education partners; and institutional reviewers.
 
-## Ownership, Control, and Certification Boundary
+## Leadership and Business Status
 
-Capitol Contracts LLC should be described consistently and accurately.
+Capitol Contracts LLC is a veteran-owned small business. It has not applied for SDVOSB certification and does not claim SDVOSB status.
 
-- **William Dane Lingar** is the veteran majority owner and executive control authority.
-- **Daniel Bret Lingar** is not a veteran and should not be described as veteran-owned, service-disabled veteran-owned, SDVOSB owner, SDVOSB principal, CEO, President, or final-control authority.
-- **Daniel Bret Lingar's role should be limited to non-veteran operational, technical, curriculum, production, or implementation support language.**
-- Capitol Contracts LLC has **not yet applied for SDVOSB certification** and should not be described as SDVOSB-certified, verified SDVOSB, approved SDVOSB, or certified veteran-owned.
-- Any future certification language must be verified before publication or reuse.
-
-Preferred role framing:
-
-- William Dane Lingar: **Majority Owner / CEO / President / Final Decision Authority**
-- Daniel Bret Lingar: **Director of Operations / Technical Lead / Curriculum Development Support**
+- **William Dane Lingar**: Majority Owner / CEO / President
+- **Daniel Bret Lingar**: Director of Operations / Technical Lead / Curriculum Development Support
 
 ## Federal Contracting Data
 
@@ -106,28 +98,13 @@ Capitol Contracts LLC materials are not therapy, not medical advice, not legal a
 
 The company develops structured educational tools that help people and organizations recognize survival patterns, reduce shame-based misreadings, and support safer implementation practices.
 
-## Repository Purpose
+## About This Repository
 
-This repository should hold:
+This repository is the public documentation hub for Capitol Contracts LLC: company overview, capability statement drafts, service descriptions, readiness roadmaps, and pilot evidence-generation templates.
 
-- capability statement drafts
-- procurement-safe company language
-- service descriptions
-- leadership/control-aligned language
-- readiness roadmaps
-- pilot evidence-generation templates
-- public business documentation
-
-It should not hold raw curriculum content, personal narrative drafts, investigation files, or unrelated experiments.
+Curriculum content, manuscripts, and research archives live in the separate repositories listed above.
 
 ## Next Step / Contact
 
 For inquiries, pilot conversations, capability materials, or implementation discussions: **[capitolcontracts@outlook.com](mailto:capitolcontracts@outlook.com)**
 
-## Suggested Public Repo Description
-
-Use this for the GitHub repository About/Description field:
-
-> Capitol Contracts LLC — Non-clinical psychoeducational curriculum developer serving recovery, veteran-support, reentry, peer-support, and institutional education partners. UEI: HH77KN5AV5X7 | CAGE: 9ZFJ6 | NAICS 611710
-
-Do **not** use SDVOSB language unless certification is granted and verified.

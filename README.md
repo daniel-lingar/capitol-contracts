@@ -20,6 +20,12 @@ The decimal is a daily average across a year—not half a person. Every death re
 
 This is a personal mission statement, not a claim of demonstrated effectiveness. WRH remains development-stage, non-clinical education with no current delivery authorization; it has not been demonstrated to prevent suicide or replace professional care.
 
+### Why This Mission Matters Personally
+
+Daniel Bret Lingar is not a Veteran. He lives with C-PTSD and describes knowing from his own experience how hard it can be to live with it. Encountering figures about C-PTSD among Veterans, alongside the 17.5 daily Veteran suicide figure, drew him toward this mission through a personal connection to the suffering behind the numbers.
+
+This explains his motivation. It does not establish that C-PTSD caused those deaths, and 17.5 is not a count of Veterans with C-PTSD. The VA statistic describes Veteran suicide deaths overall.
+
 **Source:** [U.S. Department of Veterans Affairs, February 5, 2026](https://news.va.gov/press-room/va-releases-annual-veteran-suicide-prevention-report-updated-with-2023-data/).
 
 ## First-Time Visitor Summary

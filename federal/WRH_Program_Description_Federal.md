@@ -1,48 +1,67 @@
-# What Really Happened (WRH) Trauma Psychoeducation Program
+# WRH — Development-Stage Educational Program Description
 
-> **Scope note:** This document describes a 30-session pilot subset of the authoritative 76-session WRH Master Curriculum.
+**For federal and state organizational review**  
+**Delivery authorization:** None
 
-## Program Description for Federal and State Buyers
+## Program Overview
 
-### Program Overview
-What Really Happened (WRH) is a 30-session trauma psychoeducation curriculum designed for veterans, justice-involved adults, and individuals in addiction treatment who live with complex trauma and nervous system dysregulation. WRH is a **non-exposure, non-processing** program: it teaches the mechanics of C-PTSD and high-risk decision-making through a documented case study (Daniel) rather than group members’ personal stories.
+What Really Happened (WRH) is a non-clinical psychoeducational curriculum under development by Capitol Contracts LLC. It teaches survival-pattern recognition, shame-based interpretations, avoidance, freeze, and accountability in plain language.
 
-The curriculum is built for **hard populations**: people who typically shut down, walk out, or relapse through traditional talk-therapy or process groups. WRH uses high-velocity, analytical instruction with a standardized session structure so frontline facilitators can deliver it consistently across rehabs, jails, and community programs.
+WRH is not therapy, diagnosis, treatment, crisis care, or legal or medical advice. It does not replace existing professional services.
 
-### Target Populations
-WRH is specifically designed for:
-- **Veterans** with complex trauma, moral injury, and co-occurring substance use.
-- **Justice-involved adults**, including incarcerated and reentry populations.
-- **Individuals in addiction treatment** who have repeated relapse and high dropout from groups.
+## Intended Audience
 
-The program assumes high rates of hyperarousal, dissociation, and difficulty focusing in group settings and is engineered accordingly (short segments, repeated grounding, no forced sharing).
+The developing materials are intended for adult education in recovery, reentry, peer-support, veteran-support, and community settings, subject to future review and authorization.
 
-### Structure: The 30-Session Arc
-WRH is delivered in 30 sessions of approximately 75 minutes each, organized into three arcs:
+The design considers people who may find group participation difficult because of distress, shame, concentration difficulties, or shutdown. It does not compare WRH's effectiveness with therapy or other programs.
 
-- **Arc 1 – THE SYSTEM (Sessions 00–10): How It Gets Built Into You**
-  Establishes that behavior is an output of a nervous system shaped by early environment (“The Incubator”), not a character defect. Introduces core mechanisms such as `The Hum` (baseline dysregulation), `The Blanket` (survival strategy), and `The Razor` (trauma bonds).
+Potential audiences are not confirmed customers or approved delivery sites. This description does not authorize use in a mandated setting.
 
-- **Arc 2 – THE DRIVERS (Sessions 11–20): What Keeps the Engine Running**
-  Explores shame cycles, relapse as regulation, identity labels, and the internal drivers that keep destructive patterns going (e.g., control, avoidance, loyalty to the old system).
+## Instructional Design
 
-- **Arc 3 – THE INTERRUPT (Sessions 21–30): How You Rewrite the Code**
-  Focuses on interruption and re-patterning: `Permission Paradox`, `Control Circuit`, `Somatic Inventory`, `Pattern Veto`, `Accountability Architecture`, `Safe Relationship Blueprint`, `Legacy Architecture`, and `The Manifesto`.
+WRH uses a non-exposure, non-processing design: participants would not be required to recount or publicly process personal trauma.
 
-### Safety and Participation Model
-WRH is intentionally designed for participants who experience terror, hyperarousal, or shutdown in groups. Key safety and participation rules:
-- **No introductions; no forced sharing.** WRH does not “go around the room.” Participants are never required to introduce themselves, describe their trauma, charges, or addiction history.
-- **Non-disclosure, non-processing format.** All teaching is done via the Daniel/Architect case study. Participants are invited to notice parallels internally, not publicly process their stories.
-- **Opt-in participation.** Participants may remain completely silent for all 30 sessions and still be considered fully engaged, as long as they attend and complete the noticing tasks.
-- **Plan B for Hyperarousal and Focus Problems.** Participants receive a simple Plan B card that tells them exactly what to do if they feel terror in the room or cannot focus: one grounding breath, drop performance, “steal one sentence” from the session, and write one word about what landed later.
+Some lessons use Daniel Bret Lingar's memoir as a named lived-experience teaching source. Daniel is the author and is not a veteran. Examples describe his account and interpretation; they do not establish a medical cause for another person's behavior or validate the curriculum.
 
-### Retention and Behavior-Change Design
-WRH is built explicitly to beat the common “learn 20, forget 80” pattern in psychoeducation:
-- **Standardized repetition and active recall.** Every session includes a `Retention Anchor`, a `Mirror Moment`, and an `Open Loop` that assigns a behavior-noticing task until the next session.
-- **Low-demand engagement for high-arousal participants.** Participants who cannot track every word in group are still asked to identify one concept and one related behavior per session, which builds cumulative understanding over the 30-session arc.
-- **Mechanism-first, non-moral frame.** Behaviors (relapse, volatility, shutting down, “people-pleasing”) are consistently reframed as nervous-system outputs, not moral failures, which reduces shame and increases openness to change.
+Optional private reflection and communication practice are intended to support pattern recognition without requiring personal disclosure.
 
-### Delivery Model and Requirements
-WRH can be delivered in-person in treatment centers, correctional facilities, veterans’ programs, and reentry sites, or via a digital portal (full-stack TypeScript/React/tRPC) where technology access and security policies permit.
+## Curriculum and Pilot Formats
 
-**Facilitator profile:** Bachelor’s-level staff, peers, or clinicians with trauma-informed training who complete WRH facilitator training and commit to the Core Rules and non-processing format. No requirement for facilitators to be licensed clinicians, though programs may choose to co-locate WRH with clinical services.
+The master curriculum uses a 76-session architecture, including a facilitator safety framework. Separate documents describe a 30-session pilot format. These are distinct development formats and must be identified by a specific edition and contents manifest.
+
+Session duration, pacing, handout alignment, and delivery requirements remain subject to review. A proposed format is not proof of completed implementation.
+
+## Retention Design
+
+The materials are designed to support retention through repetition and active recall. They are intended to reduce shame-based readings of behavior while preserving responsibility for harm and unmet obligations.
+
+These are design intentions. No comparative retention advantage or measured behavior-change outcome is established here.
+
+## Proposed Delivery Conditions
+
+No participant delivery or facilitator training is currently authorized. Future delivery would require:
+
+- A reviewed and approved curriculum edition.
+- Defined facilitator qualifications, preparation, supervision, and authorization.
+- Host-site procedures for safety, support, confidentiality, accessibility, and records.
+- Clear boundaries between education and clinical services.
+- A documented release decision.
+
+Facilitator coaching would focus on delivery fidelity and boundaries. Communication practice would remain educational. Neither would constitute participant counseling, individualized treatment planning, or crisis intervention.
+
+No deployed digital platform or completed facilitator-training program is claimed by this description.
+
+## Evaluation Scope
+
+A future approved pilot could measure attendance, completion, engagement, pattern-recognition self-report, staff confidence, facilitator fidelity, and operational issues.
+
+These measures would not establish that WRH treats C-PTSD or addiction, prevents suicide, or reduces relapse, recidivism, or crisis utilization.
+
+## Current Status and Contact
+
+The [WRH Public Release Status](https://github.com/daniel-lingar/wrh-master-curriculum/blob/master/PUBLIC_RELEASE_STATUS.md) controls current use. This document is informational, not a procurement offer, statement of work, or authorization to deliver.
+
+Any future federal or state submission requires verified business information and appropriate procurement or legal review.
+
+**Capitol Contracts LLC**  
+**capitolcontracts@outlook.com**

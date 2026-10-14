@@ -36,11 +36,25 @@ Research supports a connection between C-PTSD and suicidal thoughts and attempts
 
 [Read the full mission explanation, research evidence, limitations, and VA sources](docs/MISSION_AND_CPTSD_RESEARCH.md).
 
+## Who This Work Is For
+
+The 17.5-to-zero statement expresses the Veteran suicide-prevention aspiration that drew Daniel toward this work. The intended audience is broader:
+
+- **People living with C-PTSD**, whether or not they are Veterans.
+- **People who use or have used substances to cope with distress**, including those who describe their use as self-medication, and people in addiction recovery.
+- **Veterans living with trauma-related difficulties**, including those experiencing substance-use problems.
+- **Rehabilitation facilities and recovery programs** seeking to understand trauma, coping patterns, shame, avoidance, and barriers to participation.
+- **Families and loved ones of all these groups**, who need understandable language for what their loved one may be experiencing and how it affects relationships.
+
+A central aim is to help people understand patterns that can be misunderstood, while retaining accountability for harmful behavior. Families and loved ones are an intended audience in their own right.
+
+Self-medication describes a possible reason for substance use; it is not assumed to explain every person's addiction or establish a diagnosis. This audience statement describes the purpose of the work, not authorization to deliver WRH or evidence that it treats C-PTSD, addiction, or suicide risk.
+
 ## First-Time Visitor Summary
 
 Capitol Contracts LLC is not presenting WRH as therapy, medical care, diagnosis, crisis care, or legal advice. WRH is a non-clinical education system designed to help organizations teach pattern recognition, reduce shame-based misreadings, and support safer peer/facilitator-led conversations.
 
-**Primary audiences:** recovery organizations, veteran-support programs, reentry settings, peer-support networks, public education partners, and institutional reviewers.
+**Primary audiences:** people living with C-PTSD; people who use substances to cope and people in recovery; Veterans; families and loved ones of all these groups; rehabilitation facilities and recovery organizations; veteran-support programs; reentry settings; peer-support networks; public education partners; and institutional reviewers.
 
 ## Ownership, Control, and Certification Boundary
 

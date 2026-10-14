@@ -8,6 +8,20 @@ The company's flagship education system is **What Really Happened (WRH)** — a 
 
 **Contact:** [capitolcontracts@outlook.com](mailto:capitolcontracts@outlook.com)
 
+## Daniel Bret Lingar's Mission: From 17.5 to Zero
+
+> **“I am building this to lower 17.5 to 0.” — Daniel Bret Lingar**
+
+**17.5** refers to the average number of U.S. Veterans who died by suicide each day in **2023**. The Department of Veterans Affairs reported **6,398 Veteran suicide deaths that year** in its 2025 National Veteran Suicide Prevention Annual Report, released February 5, 2026.
+
+The decimal is a daily average across a year—not half a person. Every death represents a whole person, a family, and a life that mattered. This is a dated statistic, not a live daily count.
+
+**Zero is the goal: no Veteran lost to suicide.** That aspiration gives direction to Daniel's work on plain-language education, survival-pattern understanding, and reducing shame and misunderstanding.
+
+This is a personal mission statement, not a claim of demonstrated effectiveness. WRH remains development-stage, non-clinical education with no current delivery authorization; it has not been demonstrated to prevent suicide or replace professional care.
+
+**Source:** [U.S. Department of Veterans Affairs, February 5, 2026](https://news.va.gov/press-room/va-releases-annual-veteran-suicide-prevention-report-updated-with-2023-data/).
+
 ## First-Time Visitor Summary
 
 Capitol Contracts LLC is not presenting WRH as therapy, medical care, diagnosis, crisis care, or legal advice. WRH is a non-clinical education system designed to help organizations teach pattern recognition, reduce shame-based misreadings, and support safer peer/facilitator-led conversations.

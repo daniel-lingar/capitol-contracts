@@ -1,261 +1,74 @@
-# What Really Happened™ Buyer-Facing Packet
+# What Really Happened (WRH) — Organizational Review Packet
 
-**Dark Mode Executive Edition — Black / Charcoal / Gold / White / Purple**
+**Status:** Development-stage information for review  
+**Delivery authorization:** None  
+**Organization:** Capitol Contracts LLC
 
-This is the WRH buyer-facing packet for county directors, state agencies, CMHCs, hospitals, foundations, recovery programs, reentry programs, veteran-serving agencies, and other implementation partners.
+WRH is a non-clinical psychoeducational curriculum that teaches trauma responses and survival patterns in plain language. It is not therapy, diagnosis, treatment, crisis care, or a replacement for clinical services.
 
----
+This packet describes the developing educational materials and proposed evaluation approach. It is not an offer to purchase or deliver WRH. Pricing, order terms, implementation commitments, and facilitator authorization are not currently offered.
 
-## I. WRH One-Page Sell Sheet
+## WRH Is Designed To Support
 
-What Really Happened™ (WRH) is a trauma-literacy and directional-change system that gives agencies a mechanical model for understanding and changing survival patterns.
+- Shared language for understanding survival patterns.
+- Participant engagement and retention.
+- Staff confidence in facilitating non-clinical education.
+- Measurable pilot indicators, subject to approved evaluation procedures.
 
-WRH replaces behavior-correction with trajectory-correction, giving staff and participants a shared language for change.
+These are design intentions, not demonstrated outcomes. WRH has not been shown to reduce crisis utilization, relapse, recidivism, or suicide.
 
-### WRH Delivers
+## Intended Review Audiences
 
-- Reduced crisis utilization
-- Reduced relapse and recidivism
-- Increased participant stability
-- Increased retention
-- Increased staff capacity
-- Measurable directional outcomes
+- Recovery and peer-support organizations.
+- Reentry and community-support programs.
+- Veteran-support organizations.
+- Family-support and public education partners.
 
-### Core Tools
+These are potential audiences for review, not evidence of adoption or permission to use WRH in a mandated setting.
 
-- The Survival Map
-- The Trajectory Engine
-- The Way Back
-- Rescue Boat Replacement
-- Pattern Visibility & Interrupt Practice
+## Educational Approach
 
-### Who Uses WRH
+The materials use plain-language models, repetition, optional private reflection, and practical communication examples. Participants would not be required to disclose personal trauma histories.
 
-- Courts & diversion programs
-- Recovery & peer-support programs
-- CMHCs & crisis teams
-- Veteran-serving agencies
-- Rural behavioral-health systems
-- Shelters & transitional housing
-- Workforce & reentry programs
+Author-created models include the Survival Map and the Trajectory Engine. They are educational frameworks, not diagnostic tools or validated measures.
 
----
+Some teaching examples draw on Daniel Bret Lingar's memoir, *From the Storm to the Fire*. Daniel is the author and a named lived-experience source. His account illustrates patterns; it does not establish their cause in another person or demonstrate program effectiveness.
 
-## II. WRH Product Catalog
+## Materials Available for Review
 
-### 1. WRH Core Training
+The WRH repositories contain session drafts, facilitator notes, participant handouts, framework documents, and operating/evaluation templates. Different curriculum and pilot formats must be identified by a specific version and manifest rather than treated as interchangeable.
 
-A full trauma-literacy and directional-change training for staff. Includes Survival Map, Trajectory Engine, and interrupt practice.
+Public access to these documents does not authorize delivery, adaptation, facilitator training, or participant-record collection.
 
-### 2. WRH Participant Workshops
+## Proposed Pilot Measures
 
-Direct delivery of WRH content to participants in recovery, reentry, crisis stabilization, or behavioral-health programs.
+A future approved pilot could record:
 
-### 3. WRH Implementation Package
+- Engagement, using a defined observable measure.
+- Attendance and completion.
+- Pattern-recognition self-report.
+- Staff confidence.
+- Facilitator fidelity and adherence to non-clinical boundaries.
+- Operational issues and required revisions.
 
-Full integration into agency workflows, including staff coaching, fidelity monitoring, and data tracking.
+Self-report is not a clinical assessment. Targets are not achieved results. A proposed measure does not establish that WRH will improve it.
 
-### 4. WRH Evaluation & Reporting Tools
+The [operating and evaluation framework](https://github.com/daniel-lingar/WRH-PILOT-OPERATING---EVALUATION/blob/main/01_Pilot_Framework/Pilot_Evaluation_Framework.md) contains development materials for operational evaluation. Any use requires approved, site-specific procedures and a documented release decision.
 
-A complete measurement system for tracking interrupts, evidence, direction, and stability.
+## Future Facilitator Authorization
 
-### 5. WRH Licensing & Certification
+Any future facilitator authorization would require defined qualifications, approved preparation, supervision, and fidelity expectations. No facilitator authorization or trainer authorization is currently offered.
 
-Agency-wide licensing for long-term sustainability and internal trainer development.
+Facilitator support would concern curriculum delivery, boundaries, and communication practice. It would not include individualized clinical support plans, participant counseling, or treatment.
 
----
+## Release and Review Requirements
 
-## III. WRH Training Catalog
+The controlling [WRH Public Release Status](https://github.com/daniel-lingar/wrh-master-curriculum/blob/master/PUBLIC_RELEASE_STATUS.md) requires evidence documentation, independent review, site-specific procedures, accessibility review, facilitator controls, and a versioned release decision before delivery.
 
-### Training 1 — The Survival Map
+Any future commercial proposal would need an approved edition, verified rights, a defined scope, responsibilities, costs, and appropriate procurement or legal review.
 
-Staff learn the five-part trauma-literacy model:
+## Contact
 
-- The Water
-- The Alarm
-- Survival Moves
-- The Rescue Boat
-- The Way Back
-
-### Training 2 — The Trajectory Engine
-
-Staff learn the mechanical model for directional change:
-
-- Pattern
-- Fork
-- Interrupt
-- Repetition
-- Evidence
-- Direction
-
-### Training 3 — Applied WRH
-
-Real-world application:
-
-- Case examples
-- Crisis-response alignment
-- De-escalation using WRH language
-- Participant coaching
-
-### Training 4 — WRH for Leadership
-
-Supervisors learn:
-
-- fidelity monitoring
-- staff coaching
-- data interpretation
-- implementation strategy
-
----
-
-## IV. WRH Pilot Program Sheet
-
-**Length:** 90 days
-
-### Includes
-
-- Staff training
-- Participant workshops
-- Rescue Boat replacement planning
-- Weekly coaching
-- Data collection
-- Final evaluation report
-
-### Pilot Outcomes
-
-- Early interrupt frequency
-- Pattern visibility
-- Crisis-reduction indicators
-- Participant engagement
-- Staff confidence
-
----
-
-## V. WRH Pricing Sheet
-
-### Tier 1 — Training Only
-
-- Staff training
-- Materials
-- No coaching
-- No evaluation
-
-### Tier 2 — Training + Coaching
-
-- All Tier 1
-- Weekly coaching
-- Fidelity monitoring
-
-### Tier 3 — Full WRH Integration
-
-- All Tier 2
-- Participant workshops
-- Rescue Boat planning
-- Evaluation system
-- Quarterly reports
-
-### Tier 4 — WRH Licensing
-
-- Agency-wide license
-- Internal trainer certification
-- Annual updates
-- Long-term sustainability
-
----
-
-## VI. WRH Order Form / Statement of Work
-
-### Scope of Work
-
-WRH will deliver:
-
-- staff training
-- participant workshops
-- individualized support plans
-- coaching
-- evaluation
-- reporting
-
-### Deliverables
-
-- training completion
-- workshop delivery
-- data reports
-- final evaluation
-
-### Timeline
-
-- 12-month implementation
-- Quarterly reporting
-
-### Payment Terms
-
-- 30/30/40 or monthly invoicing
-- Net 30
-
----
-
-## VII. WRH License Terms
-
-Includes:
-
-- permitted uses
-- prohibited uses
-- internal training rights
-- renewal terms
-- confidentiality
-- data ownership
-
----
-
-## VIII. WRH Evaluation Framework
-
-Measures:
-
-- interrupt frequency
-- evidence accumulation
-- direction stability
-- crisis utilization
-- retention
-- relapse/recidivism
-- participant stability
-
----
-
-## IX. WRH Reporting Tools
-
-Includes:
-
-- monthly interrupt reports
-- quarterly outcome summaries
-- annual evaluation
-- fidelity monitoring reports
-
----
-
-## X. WRH Sample Packet — Session 16
-
-Includes:
-
-- facilitator script excerpt
-- participant handout
-- worksheet
-- fidelity checklist
-- reporting form
-- certificate sample
-
----
-
-## XI. WRH Attachment List & Follow-Up Sequence
-
-- Email 1: Sell sheet + catalog
-- Email 2: Pilot program + sample packet
-- Email 3: Pricing + SOW
-- Email 4: Evaluation + reporting tools
-- Email 5: Licensing + sustainability
-
----
-
-## XII. Dark Mode Executive Closing Line
-
-WRH gives agencies the missing mechanical model for change — shifting the unit of intervention from behavior to trajectory.
+For information about the development materials or organizational review:  
+**Capitol Contracts LLC**  
+**capitolcontracts@outlook.com**

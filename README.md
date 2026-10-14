@@ -58,7 +58,7 @@ Capitol Contracts LLC is not presenting WRH as therapy, medical care, diagnosis,
 
 ## Leadership and Business Status
 
-Capitol Contracts LLC is a veteran-owned small business. It has not applied for SDVOSB certification and does not claim SDVOSB status.
+Capitol Contracts LLC is majority-owned by a veteran. It has not applied for SDVOSB certification and does not claim SDVOSB status.
 
 - **William Dane Lingar**: Majority Owner / CEO / President
 - **Daniel Bret Lingar**: Director of Operations / Technical Lead / Curriculum Development Support

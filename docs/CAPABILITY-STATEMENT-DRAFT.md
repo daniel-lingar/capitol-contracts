@@ -61,9 +61,9 @@ Additional NAICS, PSC, certification, and set-aside language must be verified be
 
 ## Related Repositories
 
-- WRH Master Curriculum: https://github.com/Mave9055/wrh-master-curriculum
-- WRH Pilot Deployment Package: https://github.com/Mave9055/WRH-Pilot-Deployment-Package
-- Top 10 Core: https://github.com/Mave9055/top-10-core
+- WRH Master Curriculum: https://github.com/daniel-lingar/wrh-master-curriculum
+- WRH Pilot Deployment Package: https://github.com/daniel-lingar/WRH-Pilot-Deployment-Package (private)
+- Top 10 Core: https://github.com/daniel-lingar/top-10-core (private)
 
 ## Contact / Review
 

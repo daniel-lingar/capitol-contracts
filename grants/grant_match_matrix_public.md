@@ -33,4 +33,4 @@ Capitol Contracts LLC provides full technical assistance for grant applicants, i
 ---
 **Note**: NOFOs refresh annually. Verify active status at [grants.gov](https://www.grants.gov) prior to proposal submission. Full strategic alignment matrix with internal scoring and competitive analysis is available to partners upon request.
 
-**Contact**: bret_lingar@outlook.com | [mave9055.github.io/mix](https://mave9055.github.io/mix)
+**Contact**: bret_lingar@outlook.com | [daniel-lingar.github.io/mix](https://daniel-lingar.github.io/mix)
